@@ -1,6 +1,6 @@
 {
   "name": "@wuild/vue-titlebar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and easy to use title bar for electron  \r stylesheets are written in scss and require a loader for it.",
   "main": "index.js",
   "scripts": {
