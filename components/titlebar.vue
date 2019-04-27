@@ -292,7 +292,9 @@
             },
             menu: {
                 type: Array,
-                default: []
+                default: function () {
+                    return [];
+                }
             },
             isMinimizable: {
                 type: Boolean,
